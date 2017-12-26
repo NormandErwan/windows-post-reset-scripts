@@ -16,7 +16,6 @@ set softwares=%softwares%;steam
 set softwares=%softwares%;transmission
 set softwares=%softwares%;uplay
 set softwares=%softwares%;visualstudiocode
-set softwares=%softwares%;zotero-standalone
 
 :: Install or upgrade choco
 
